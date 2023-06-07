@@ -54,9 +54,9 @@ continuously learning, wanting to help the community
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
 
-![](https://github-readme-stats.vercel.app/api?username=TahaTasleem&theme=tokyonight&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TahaTasleem&theme=tokyonight&show_icons=true&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaTasleem&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=TahaTasleem&theme=tokyonight&show_icons=true)<br/>
+![](https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=TahaTasleem&theme=tokyonight&show_icons=true&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TahaTasleem&theme=tokyonight&show_icons=true)
 
 
 ## 🏆 GitHub Trophies
