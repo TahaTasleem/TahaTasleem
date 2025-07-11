@@ -3,8 +3,8 @@
 <p align="center" >
   <samp>
     My name is <em>Taha</em>. I am a Software Engineer... 
-  <br/> C#... JavaScript... Python... Java...  
-    <br/> Fresh Graduate ....
+  <br/> C#... JavaScript... Python... React...  
+    <br/> Experienced Professional ....
       <br/>
     Looking for an opportunity..
           <br/>
@@ -18,13 +18,13 @@ continuously learning, wanting to help the community
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" /> Final Year Project
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" /> Backend services for GoldCare
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Self-learning
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px" />DevOps
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/unity.png" height="30px" /> Design Structure
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px" /> Project Management
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Data Warehousing
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Platform Engineering
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project
 
