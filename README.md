@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/tahatasleem/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:tahatasleem01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/TahaTasleem"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=TahaTasleem&amp;label=Profile%20views&amp;color=0A66C2&amp;style=for-the-badge">
 </p>
 
 </div>
@@ -111,13 +112,13 @@ I care about clear interfaces, predictable behavior, useful observability, secur
 
 ---
 
-### GitHub snapshot
+### Contribution activity
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahaTasleem&amp;theme=github_dark" alt="Taha's public GitHub activity summary" />
+  <img width="100%" src="https://ghchart.rshah.org/2F81F7/TahaTasleem" alt="Taha's GitHub contribution calendar" />
 </div>
 
-<sub>These cards reflect public GitHub activity and do not represent the full scope of my professional work.</sub>
+<sub>This calendar reflects contribution data visible on my public GitHub profile. Private work remains private and is represented only when GitHub is configured to show anonymized private contributions.</sub>
 
 ---
 
