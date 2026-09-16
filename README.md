@@ -1,72 +1,142 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+<div align="center">
 
-<p align="center" >
-  <samp>
-    My name is <em>Taha</em>. I am a Software Engineer... 
-  <br/> C#... JavaScript... Python... React...  
-    <br/> Experienced Professional ....
-      <br/>
-    Looking for an opportunity..
-          <br/>
-continuously learning, wanting to help the community
-  </samp>
-  <br/>
-  <br/>
-  <br/>
+<h1>Hi, I'm Taha Tasleem</h1>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;pause=1100&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=AI-Enabled+Full+Stack+Software+Developer;I+build+production+software+across+the+stack;I+integrate+AI+into+practical+engineering+workflows;Always+learning.+Always+improving."
+    alt="Typing introduction"
+  />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/tahatasleem/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tahatasleem01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/TahaTasleem"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" /> Backend services for GoldCare
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/controller.png" width="30px" />  Self-learning
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px" />DevOps
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/unity.png" height="30px" /> Design Structure
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px" /> Project Management
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px" /> Platform Engineering
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> any open source project
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> any weird or interesting idea
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
-<p align="center">
-  <a href="https://twitter.com/TahaTasleem">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/taha.tasleem">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/tahatasleem/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="mailto:tahatasleem01@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
-  </a>
-</p>
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=TahaTasleem&theme=tokyonight&show_icons=true)<br/>
-![](https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=TahaTasleem&theme=tokyonight&show_icons=true&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TahaTasleem&theme=tokyonight&show_icons=true)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TahaTasleem&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-[![](https://visitcount.itsvg.in/api?id=TahaTasleem&icon=8&color=1)](https://visitcount.itsvg.in)
-
+</div>
 
 ---
+
+<img align="right" width="310" src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/a80e0b713c234b80607c0c60b77c28ae91030401/coderman.gif" alt="Developer working at a computer" />
+
+### About me
+
+I am an experienced software developer who builds and maintains production software across frontend, backend, APIs, databases, integrations, and cloud environments.
+
+My background includes healthcare software and enterprise applications where performance, reliability, security, maintainability, and user experience have real operational impact.
+
+- 🔭 **Building:** full-stack products, backend services, APIs, integrations, and cloud-ready systems
+- 🤖 **Using AI for:** system exploration, debugging, testing, code review, research, documentation, and delivery efficiency
+- 🌱 **Learning:** system design, GenAI, LLM applications, GCP, cloud architecture, cost optimization, and engineering leadership
+- 🌍 **Open to:** international and remote opportunities across full-stack, backend, AI-enabled, and cloud-oriented software engineering
+
+<br clear="right" />
+
+### What I build
+
+- **Full-stack products** — responsive interfaces, business workflows, and maintainable application architecture
+- **Backend systems and APIs** — service integrations, REST APIs, data access, and performance-conscious processing
+- **Enterprise and healthcare software** — including FHIR interoperability and systems that work with large datasets
+- **Cloud-ready delivery** — containerized applications, CI/CD workflows, and modern deployment environments
+- **AI-enabled software** — practical LLM features, retrieval-augmented generation, automation, and developer workflows
+
+### AI + engineering
+
+I use AI as an engineering multiplier, not as a substitute for engineering judgment. **Claude Code, Cursor, Codex, LLMs, n8n, and Langfuse** support how I understand unfamiliar systems, compare solutions, debug issues, strengthen tests, review code, refine implementations, and shorten feedback loops.
+
+I am developing practical experience with **GenAI applications, RAG, vector search, prompt refinement, and AI automation**. My focus is on integrating these capabilities into useful, reliable software—not building isolated demos or presenting myself as an AI researcher.
+
+---
+
+### Languages, frameworks & tools
+
+<p align="center">
+  <strong>Languages</strong><br />
+  <sub>Python · C# · TypeScript · JavaScript · Java · SQL · Go</sub><br /><br />
+  <img src="https://skillicons.dev/icons?i=py,cs,ts,js,java,go&amp;perline=6" alt="Programming languages" />
+</p>
+
+<p align="center">
+  <strong>Frontend & backend</strong><br />
+  <sub>React · Next.js · Angular · HTML/CSS · Flask · Django · FastAPI · .NET · Spring Boot</sub><br /><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,flask,django,fastapi,dotnet,spring&amp;perline=10" alt="Frontend and backend technologies" />
+</p>
+
+<p align="center">
+  <strong>Data, cloud & delivery</strong><br />
+  <sub>PostgreSQL · SQL Server · Redis · GCP · Azure · AWS · Docker · Kubernetes · Jenkins · Git</sub><br /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,gcp,azure,aws,docker,kubernetes,jenkins,git,github&amp;perline=10" alt="Data, cloud and delivery tools" />
+</p>
+
+<p align="center">
+  <strong>AI & developer workflow</strong><br /><br />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector_Search-7C3AED?style=flat-square" alt="Vector search" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Langfuse-101010?style=flat-square" alt="Langfuse" />
+</p>
+
+<p align="center"><sub>
+My production background includes React, Next.js, Python, Flask, .NET/C#, Java/Spring Boot, REST APIs, SQL Server, Docker, Kubernetes, Jenkins, and AWS. The wider toolkit reflects additional hands-on work and areas I am actively expanding.
+</sub></p>
+
+---
+
+### Always learning, currently focused on
+
+I treat learning as part of engineering: understand a concept, apply it to a real problem, evaluate the result, and carry the useful lessons into the next system.
+
+- **System design and cloud architecture** — designing scalable systems and making clearer architectural trade-offs
+- **Generative AI and LLM applications** — grounded retrieval, RAG, vector search, prompt refinement, and observability
+- **Google Cloud Platform** — applying GCP services to modern application and AI workloads
+- **Engineering optimization** — improving cost awareness, delivery efficiency, reliability, and performance
+- **Technical and team leadership** — strengthening planning, communication, decision-making, and team effectiveness
+- **Product and creative tooling** — exploring Framer and Higgsfield for faster visualization and experimentation
+
+### Engineering principles
+
+```text
+Understand the system → define the trade-offs → build the smallest sound solution
+→ test and observe it → optimize what evidence shows matters
+```
+
+I care about clear interfaces, predictable behavior, useful observability, secure integrations, and code the next engineer can understand. Whether I am working on a UI, API, database query, deployment pipeline, or AI-enabled feature, the goal is the same: software that works reliably beyond the demo.
+
+---
+
+### GitHub snapshot
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahaTasleem&amp;theme=github_dark" alt="Taha's public GitHub activity summary" />
+</div>
+
+<sub>These cards reflect public GitHub activity and do not represent the full scope of my professional work.</sub>
+
+---
+
+<div align="center">
+
+### Let's build something useful
+
+<a href="https://www.linkedin.com/in/tahatasleem/">
+  <img width="280" src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/a80e0b713c234b80607c0c60b77c28ae91030401/connected.gif" alt="Connect with Taha on LinkedIn" />
+</a>
+
+**Open to new opportunities, projects, and collaborations.**
+
+If you are building dependable software with modern full-stack, cloud, or AI workflows, feel free to reach out.
+
+<a href="https://www.linkedin.com/in/tahatasleem/"><strong>Connect on LinkedIn</strong></a>
+&nbsp;·&nbsp;
+<a href="mailto:tahatasleem01@gmail.com"><strong>Send me an email</strong></a>
+
+</div>
+
+<!-- Animation references: RaghavK16/RaghavK16 (MIT-licensed repository). -->
